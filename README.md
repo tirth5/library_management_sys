@@ -5,7 +5,7 @@ front-end:GUI using tkinter in python.
 back-end: MYSQL database
 
 # features
-<br/>
+
 add entry
 <br/>
 update details
