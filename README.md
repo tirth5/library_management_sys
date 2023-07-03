@@ -1,2 +1,9 @@
 # library_management_sys
-this project is in python language.
+front-end:GUI using tkinter in python.
+back-end: MYSQL database
+
+# features
+add entry
+update details
+delete entry
+reset details
